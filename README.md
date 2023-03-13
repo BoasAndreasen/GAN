@@ -1,8 +1,8 @@
 # GAN
 
-PyTorch model generates images of trees of size 48x48.
+PyTorch model generates images of size 48x48.
 
-Original Data
+Sample from training data
 
 ![download-1](https://user-images.githubusercontent.com/43874717/224698258-2b09867d-f37e-4f08-901a-74dfd3dcc7db.png)
 
